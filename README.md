@@ -1,4 +1,4 @@
-# Sharanu Kaveri
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sharanu%20Kaveri&fontSize=62&fontColor=EAEAEA&color=58A6FF,BC4CE8&animation=twinkling&fontAlignY=32" alt="Sharanu Kaveri" width="100%" />
 
 Final-year CSE student | Full-Stack (React/Node) | Building AI-powered apps
 
