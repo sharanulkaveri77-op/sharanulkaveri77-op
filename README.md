@@ -36,10 +36,11 @@ Final-year CSE student | Full-Stack (React/Node) | Building AI-powered apps
 - [LinkedIn](https://www.linkedin.com/in/sharanu-l-kaveri/)
 - Portfolio: <!-- TODO: add your portfolio URL -->[Portfolio]
 - [LeetCode](https://leetcode.com/u/SHARANU_77/)
+- Email: [sharanulkaveri77@gmail.com](mailto:sharanulkaveri77@gmail.com)
 
 <!--
 TODO before applying:
-1. Replace the three connect links above with real URLs.
+1. Replace the portfolio link above with a real URL.
 2. Set GitHub bio + location via Settings > Public profile.
 3. Pin: CareerAI-v2, fintrack-ai, Inventory-management, online-bookstore (+ portfolio when live).
 -->
