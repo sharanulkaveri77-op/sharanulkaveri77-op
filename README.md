@@ -33,10 +33,13 @@ Final-year CSE student | Full-Stack (React/Node) | Building AI-powered apps
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sharanu-l-kaveri/)
-- Portfolio: <!-- TODO: add your portfolio URL -->[Portfolio]
-- [LeetCode](https://leetcode.com/u/SHARANU_77/)
-- Email: [sharanulkaveri77@gmail.com](mailto:sharanulkaveri77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharanu-l-kaveri/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SHARANU_77/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharanulkaveri77@gmail.com)
+
+<!-- Uncomment when portfolio is live:
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+-->
 
 <!--
 TODO before applying:
