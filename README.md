@@ -35,7 +35,7 @@ Final-year CSE student | Full-Stack (React/Node) | Building AI-powered apps
 
 - [LinkedIn](https://www.linkedin.com/in/sharanu-l-kaveri/)
 - Portfolio: <!-- TODO: add your portfolio URL -->[Portfolio]
-- LeetCode: <!-- TODO: add your LeetCode URL -->[LeetCode]
+- [LeetCode](https://leetcode.com/u/SHARANU_77/)
 
 <!--
 TODO before applying:
