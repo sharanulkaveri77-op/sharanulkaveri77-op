@@ -2,6 +2,8 @@
 
 Final-year CSE student | Full-Stack (React/Node) | Building AI-powered apps
 
+🌐 **Portfolio:** [sharanu-portfolio-seven.vercel.app](https://sharanu-portfolio-seven.vercel.app/)
+
 ## About Me
 
 - Final-year Computer Science student focused on full-stack web development
@@ -38,20 +40,14 @@ Final-year CSE student | Full-Stack (React/Node) | Building AI-powered apps
 </p>
 
 <p align="center">
+  <a href="https://sharanu-portfolio-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/sharanu-l-kaveri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="https://leetcode.com/u/SHARANU_77/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>&nbsp;
   <a href="mailto:sharanulkaveri77@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-<p align="center">
-  <!-- Uncomment when portfolio is live:
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  -->
-</p>
-
 <!--
 TODO before applying:
-1. Replace the portfolio link above with a real URL.
-2. Set GitHub bio + location via Settings > Public profile.
-3. Pin: CareerAI-v2, fintrack-ai, Inventory-management, online-bookstore (+ portfolio when live).
+1. Set GitHub bio + location via Settings > Public profile.
+2. Pin: CareerAI-v2, fintrack-ai, Inventory-management, online-bookstore (+ portfolio repository if applicable).
 -->
