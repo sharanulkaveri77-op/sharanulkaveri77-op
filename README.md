@@ -2,8 +2,6 @@
 
 Final-year CSE student | Full-Stack (React/Node) | Building AI-powered apps
 
-🌐 **Portfolio:** [sharanu-portfolio-seven.vercel.app](https://sharanu-portfolio-seven.vercel.app/)
-
 ## About Me
 
 - Final-year Computer Science student focused on full-stack web development
