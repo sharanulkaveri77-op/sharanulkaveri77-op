@@ -151,20 +151,15 @@ Full-stack inventory management system covering the complete **Receive → Putaw
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:E8A33D,100:0D1117&height=44&section=header&text=%2F%2F%20GITHUB%20%26%20LEETCODE%20ACTIVITY&fontSize=22&fontColor=FFFFFF&fontAlignY=58" alt="// GITHUB & LEETCODE ACTIVITY" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:1F6FEB,100:0D1117&height=44&section=header&text=%2F%2F%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=FFFFFF&fontAlignY=58" alt="// CONTRIBUTION SNAKE" width="100%"/>
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharanulkaveri77-op&show_icons=true&theme=transparent&hide_border=true&title_color=E8A33D&text_color=8D94A6&icon_color=E8A33D" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanulkaveri77-op&layout=compact&theme=transparent&hide_border=true&title_color=E8A33D&text_color=8D94A6" alt="Top Languages" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharanulkaveri77-op/sharanulkaveri77-op/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharanulkaveri77-op/sharanulkaveri77-op/output/github-snake.svg"/>
-  <img src="https://ghchart.rshah.org/E8A33D/sharanulkaveri77-op" alt="GitHub Contribution Chart" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sharanulkaveri77-op/sharanulkaveri77-op/output/github-snake.svg" alt="GitHub contribution snake" width="100%"/>
 </picture>
 
 </div>
