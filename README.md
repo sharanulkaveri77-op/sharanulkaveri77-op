@@ -1,38 +1,38 @@
 <!--
   SHARANU KAVERI — GitHub Profile README
 
-  COLOR SYSTEM
-  Ocean Blue  : #1F6FEB
-  Neon Purple : #A371F7
+  COLOR SYSTEM: CYBER NEON CYAN & MINT AQUA
+  Neon Cyan   : #00F5D4
+  Electric Blue: #0072FF
   Background  : #0D1117
   Primary Text: #FFFFFF
   Muted Text  : #8B949E
-  Accent      : #A371F7
+  Accent      : #00F5D4
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:1F6FEB,55:A371F7,100:0D1117&text=SHARANU%20KAVERI&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Development%20%C2%B7%20Backend%20Systems%20%C2%B7%20Applied%20Machine%20Learning&descSize=18&descAlignY=56" alt="Sharanu Kaveri — Full-Stack · Backend Systems · Applied ML" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,30:0072FF,65:00F5D4,100:0D1117&text=SHARANU%20KAVERI&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Development%20%C2%B7%20Backend%20Systems%20%C2%B7%20Applied%20Machine%20Learning&descSize=18&descAlignY=56" alt="Sharanu Kaveri — Full-Stack · Backend Systems · Applied ML" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1100&color=A371F7&center=true&vCenter=true&width=900&height=60&lines=I+build+the+systems+underneath+the+interface.;Architecting+full-stack+apps+%C2%B7+APIs+%C2%B7+Data+Pipelines.;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Python+%C2%B7+DSA.;Build.+Ship.+Optimize.+Repeat." alt="Typing tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1100&color=00F5D4&center=true&vCenter=true&width=900&height=60&lines=I+build+the+systems+underneath+the+interface.;Architecting+full-stack+apps+%C2%B7+APIs+%C2%B7+Data+Pipelines.;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Python+%C2%B7+DSA.;Build.+Ship.+Optimize.+Repeat." alt="Typing tagline"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-SHIPPING_CODE-A371F7?style=for-the-badge&labelColor=0D1117" alt="Status: Shipping Code"/>
-<img src="https://img.shields.io/badge/OPEN_TO-SDE_&_AI%2FML_ROLES-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Open to SDE and AI/ML Roles"/>
+<img src="https://img.shields.io/badge/STATUS-SHIPPING_CODE-00F5D4?style=for-the-badge&labelColor=0D1117&color=00F5D4" alt="Status: Shipping Code"/>
+<img src="https://img.shields.io/badge/OPEN_TO-SDE_&_AI%2FML_ROLES-0072FF?style=for-the-badge&labelColor=0D1117" alt="Open to SDE and AI/ML Roles"/>
 <img src="https://img.shields.io/badge/DEGREE-B.E._CSE_2027-8B949E?style=for-the-badge&labelColor=0D1117" alt="B.E. CSE @ KNSIT"/>
 <br/>
-<img src="https://img.shields.io/badge/BASE-BANGALORE_INDIA-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Base: Bangalore, India"/>
-<img src="https://komarev.com/ghpvc/?username=sharanulkaveri77-op&color=A371F7&style=for-the-badge&label=VISITORS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/BASE-BANGALORE_INDIA-0072FF?style=for-the-badge&labelColor=0D1117" alt="Base: Bangalore, India"/>
+<img src="https://komarev.com/ghpvc/?username=sharanulkaveri77-op&color=00F5D4&style=for-the-badge&label=VISITORS" alt="Profile views"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:1F6FEB,100:0D1117&height=44&section=header&text=%2F%2F%20MY%20INTRO&fontSize=22&fontColor=A371F7&fontAlignY=58" alt="// MY INTRO" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:0072FF,100:0D1117&height=44&section=header&text=%2F%2F%20MY%20INTRO&fontSize=22&fontColor=00F5D4&fontAlignY=58" alt="// MY INTRO" width="100%"/>
 </div>
 
 <div align="center">
@@ -50,7 +50,7 @@ I don't just learn technologies — I build real systems with them, from the sch
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:A371F7,100:0D1117&height=44&section=header&text=%2F%2F%20FEATURED%20BUILDS&fontSize=22&fontColor=FFFFFF&fontAlignY=58" alt="// FEATURED BUILDS" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:00F5D4,100:0D1117&height=44&section=header&text=%2F%2F%20FEATURED%20BUILDS&fontSize=22&fontColor=0D1117&fontAlignY=58" alt="// FEATURED BUILDS" width="100%"/>
 </div>
 
 <table>
@@ -60,9 +60,9 @@ I don't just learn technologies — I build real systems with them, from the sch
 
 <h3 align="center">◈ MEALMESH PLATFORM</h3>
 <p align="center">
-<a href="https://github.com/sharanulkaveri77-op/mealmesh"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=A371F7" alt="Open MealMesh"/></a>
+<a href="https://github.com/sharanulkaveri77-op/mealmesh"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" alt="Open MealMesh"/></a>
 &nbsp;
-<a href="https://mealmesh-beta.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-1F6FEB?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Live Demo MealMesh"/></a>
+<a href="https://mealmesh-beta.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0072FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Live Demo MealMesh"/></a>
 </p>
 
 Hyper-scale food delivery ecosystem with **Spring Boot 3.2, PostgreSQL, Redis distributed caching, Kafka event streaming, SSE live GPS tracking, and Docker Compose**.
@@ -76,7 +76,7 @@ Hyper-scale food delivery ecosystem with **Spring Boot 3.2, PostgreSQL, Redis di
 
 <h3 align="center">◈ CAREERAI V2</h3>
 <p align="center">
-<a href="https://github.com/sharanulkaveri77-op/CareerAI-v2"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=1F6FEB" alt="Open CareerAI v2"/></a>
+<a href="https://github.com/sharanulkaveri77-op/CareerAI-v2"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=0072FF" alt="Open CareerAI v2"/></a>
 </p>
 
 Full-stack career growth platform that provides **resume analysis, personalized learning roadmaps, and AI recommendations** powered by the Ollama API & MongoDB.
@@ -90,7 +90,7 @@ Full-stack career growth platform that provides **resume analysis, personalized 
 
 <h3 align="center">◈ FINTRACK AI</h3>
 <p align="center">
-<a href="https://github.com/sharanulkaveri77-op/fintrack-ai"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=A371F7" alt="Open FinTrack AI"/></a>
+<a href="https://github.com/sharanulkaveri77-op/fintrack-ai"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" alt="Open FinTrack AI"/></a>
 </p>
 
 Personal finance & expense intelligence tracker built on **real analytics and budgets**, backed by Supabase authentication, PostgreSQL, and Row-Level Security (RLS).
@@ -108,7 +108,7 @@ Personal finance & expense intelligence tracker built on **real analytics and bu
 
 <h3 align="center">◈ STOCK TRADING SIMULATOR</h3>
 <p align="center">
-<a href="https://github.com/sharanulkaveri77-op/CodeAlpha_StockTradingPlatform"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=1F6FEB" alt="Open Stock Trading Platform"/></a>
+<a href="https://github.com/sharanulkaveri77-op/CodeAlpha_StockTradingPlatform"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=0072FF" alt="Open Stock Trading Platform"/></a>
 </p>
 
 Java market simulation platform with **real-time order execution, market volatility simulation, cash balance verification, and portfolio performance tracking**.
@@ -122,7 +122,7 @@ Java market simulation platform with **real-time order execution, market volatil
 
 <h3 align="center">◈ STAYEASE RESERVATION</h3>
 <p align="center">
-<a href="https://github.com/sharanulkaveri77-op/CodeAlpha_StayEase"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=A371F7" alt="Open StayEase"/></a>
+<a href="https://github.com/sharanulkaveri77-op/CodeAlpha_StayEase"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" alt="Open StayEase"/></a>
 </p>
 
 Java hotel reservation & billing management system handling **room category inventory, atomic booking transactions, guest profiles, and invoice generation**.
@@ -136,7 +136,7 @@ Java hotel reservation & billing management system handling **room category inve
 
 <h3 align="center">◈ INVENTORY MANAGEMENT</h3>
 <p align="center">
-<a href="https://github.com/sharanulkaveri77-op/Inventory-management"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=1F6FEB" alt="Open Inventory Management"/></a>
+<a href="https://github.com/sharanulkaveri77-op/Inventory-management"><img src="https://img.shields.io/badge/OPEN_REPO-0D1117?style=for-the-badge&logo=github&logoColor=0072FF" alt="Open Inventory Management"/></a>
 </p>
 
 Full-stack inventory management system covering the complete **Receive → Putaway → Issue → Audit workflow** with a 9-table SQLite schema in raw SQL and FastAPI.
@@ -152,7 +152,7 @@ Full-stack inventory management system covering the complete **Receive → Putaw
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:1F6FEB,100:0D1117&height=44&section=header&text=%2F%2F%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=FFFFFF&fontAlignY=58" alt="// CONTRIBUTION SNAKE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:0072FF,100:0D1117&height=44&section=header&text=%2F%2F%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=FFFFFF&fontAlignY=58" alt="// CONTRIBUTION SNAKE" width="100%"/>
 </div>
 
 <div align="center">
@@ -168,7 +168,7 @@ Full-stack inventory management system covering the complete **Receive → Putaw
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:A371F7,100:0D1117&height=44&section=header&text=%2F%2F%20CONNECT&fontSize=22&fontColor=FFFFFF&fontAlignY=58" alt="// CONNECT" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:00F5D4,100:0D1117&height=44&section=header&text=%2F%2F%20CONNECT&fontSize=22&fontColor=0D1117&fontAlignY=58" alt="// CONNECT" width="100%"/>
 </div>
 
 <div align="center">
@@ -189,7 +189,7 @@ Full-stack inventory management system covering the complete **Receive → Putaw
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/SHARANU_77/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/A371F7" height="52" alt="LeetCode" />
+    <img src="https://cdn.simpleicons.org/leetcode/00F5D4" height="52" alt="LeetCode" />
   </a>
 
 </div>
@@ -199,13 +199,13 @@ Full-stack inventory management system covering the complete **Receive → Putaw
 <div align="center">
 
   <a href="https://sharanu-portfolio-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_NOW-A371F7?style=for-the-badge&labelColor=0D1117" alt="Portfolio Live Now" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_NOW-00F5D4?style=for-the-badge&labelColor=0D1117" alt="Portfolio Live Now" />
   </a>
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=A371F7&center=true&vCenter=true&width=800&height=45&lines=Build+something+useful.;Keep+learning.+Keep+shipping.;Open+to+SDE+and+AI%2FML+opportunities." alt="Closing message" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=00F5D4&center=true&vCenter=true&width=800&height=45&lines=Build+something+useful.;Keep+learning.+Keep+shipping.;Open+to+SDE+and+AI%2FML+opportunities." alt="Closing message" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:A371F7,45:1F6FEB,100:0D1117" alt="Footer wave" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00F5D4,45:0072FF,100:0D1117" alt="Footer wave" width="100%"/>
 
 </div>
